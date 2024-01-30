@@ -16,7 +16,7 @@ public class GoogleBillboard {
 	
 
 	//Finish this function
-	public boolean isPrime(double dNum){
+	public static boolean isPrime(double dNum){
 		boolean wow = false;
       if(dNum<2)
   return wow;
